@@ -1,4 +1,4 @@
-# Open Visualization
+ # Open Visualization
 
 The Open Visualization Collaboration Space “OpenVis” is a forum within the OpenJS Foundation to neutrally govern the most comprehensive and widely adopted visualization libraries based on JavaScript and WebGL.
 
